@@ -1,7 +1,8 @@
-path: ../train_data  # dataset root dir
+path: ../yolov5_3class/train_data  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
 # Classes
 names:
-  0: O't O'chiruvchi
-  1: Tez Yordam
+  0: Dars qilmoqda
+  1: Javob bermoqda
+  2: Chalg'imoqda
