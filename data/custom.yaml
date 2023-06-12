@@ -1,4 +1,4 @@
-path: /content/yolov5_3class/train_data  # dataset root dir
+path: /content/dataset/train_data  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
 # Classes
